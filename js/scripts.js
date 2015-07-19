@@ -27,7 +27,7 @@ var monsterImage = new Image();
 monsterImage.onload = function () {
     monsterReady = true;
 };
-monsterImage.src = "img/monster.png";
+monsterImage.src = "img/bomb.png";
 
 // Game objects
 var hero = {
